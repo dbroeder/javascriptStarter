@@ -1,0 +1,16 @@
+body{
+    text-align: center;/*aligns text to center*/
+    background-color: aquamarine;/*changes background color*/
+}
+input{
+    text-align: center;/*aligns text inside input to center*/
+    font-size: medium;/*changes font size of input box*/
+    padding: 10px;/*adds space between text and edge of input box*/
+    margin: 15px;/*adds space between input box and button.*/
+    border-radius: 15px;/*gives input box rounded corners*/
+}
+button{
+    padding: 10px;/*adds space between text and edge of button*/
+    border-radius: 10px;/*curved edges of button*/
+    background-color: blueviolet;/*background color of button*/
+}
